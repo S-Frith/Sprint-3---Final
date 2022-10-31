@@ -57,7 +57,7 @@ function App(): JSX.Element {
     
     let newDate = date.toDateString()
     
-    //test code here
+
     
     // useEffect(() => {
     //   Axios.get('http://localhost:3001/api/retrive').then((response) => {
